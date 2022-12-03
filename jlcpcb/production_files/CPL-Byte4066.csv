@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+RN1,R_Pack04,R_Array_Convex_4x0603,140.335,-102.87,270.0,top
+RN2,R_Pack04,R_Array_Convex_4x0603,140.335,-92.71,270.0,top
+U1,4066,SOIC-14_3.9x8.7mm_P1.27mm,146.05,-95.25,270.0,top
+U2,4066,SOIC-14_3.9x8.7mm_P1.27mm,146.05,-105.41,270.0,top
